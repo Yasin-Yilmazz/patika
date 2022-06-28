@@ -1,0 +1,16 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "yase",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "slugify": "^1.6.5"
+  }
+}
